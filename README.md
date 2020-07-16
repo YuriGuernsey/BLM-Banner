@@ -1,4 +1,5 @@
 # BLM-Banner
+## This project is open source, so feel free to improve it, and request features you would like to see
 
 To add banner to page, add the following:
 ```
