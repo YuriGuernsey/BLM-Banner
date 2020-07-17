@@ -1,6 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/YuriGuernsey/count.svg) 
 # BLM-Banner
 ## This project is open source, so feel free to improve it, and request features you would like to see
-![Visitor Count](https://profile-counter.glitch.me/YuriGuernsey/count.svg)
 To add banner to page, add the following:
 ```
 <script type="text/javascript" src="https://blmbanner.netlify.app/BLM.js">
